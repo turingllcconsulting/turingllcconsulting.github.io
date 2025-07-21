@@ -1,7 +1,7 @@
 # Welcome to the Turing LLC Portfolio Page
 
-## <a href="https://turingllcconsulting.github.io/About">About</a>
+## [About](About.md)
 
-## <a href="https://turingllcconsulting.github.io/Contact">Contact</a>
+## [Contact](Contact.md)
  
-## <a href="https://turingllcconsulting.github.io/Work_Projects">Work/Projects</a>
+## [Projects](Work_Projects)
