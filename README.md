@@ -2,6 +2,6 @@
 
 ## <a href="https://turingllcconsulting.github.io/About">About</a>
 
-## Contact
+## <a href="https://turingllcconsulting.github.io/Contact">Contact</a>
  
-## Work/Projects
+## <a href="https://turingllcconsulting.github.io/Work_Projects">Work/Projects</a>
