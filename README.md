@@ -1,8 +1,3 @@
----
-layout: home
-title: ""
----
-
 # Welcome to the Turing LLC Portfolio Page
 
 ## [About](Pages/About.md)
