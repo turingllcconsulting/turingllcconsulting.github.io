@@ -1,7 +1,1 @@
-# Welcome to the Turing LLC Portfolio Page
-
-## [About](About.md)
-
-## [Contact](Contact.md)
- 
-## [Projects](Work_Projects)
+## Exploratory Data Analysis of Finished Materials in a Poultry Rendering Environment
