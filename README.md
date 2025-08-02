@@ -1,7 +1,1 @@
-# Welcome to the Turing LLC Portfolio Page
-
-## [About](About.md)
-
-## [Contact](Contact.md)
- 
-## [Projects](Work_Projects)
+## Correlation Analysis of Market Leading Indicators and Major Stock Indexes
