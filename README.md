@@ -1,7 +1,1 @@
-# Welcome to the Turing LLC Portfolio Page
-
-## [About](About.md)
-
-## [Contact](Contact.md)
- 
-## [Projects](Work_Projects)
+## Feature Selection, Time Series, and Correlation Analysis in Poultry Rendering Systems
