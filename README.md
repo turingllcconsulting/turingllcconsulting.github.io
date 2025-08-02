@@ -1,7 +1,7 @@
 # Welcome to the Turing LLC Portfolio Page
 
-## [About](About.md)
+## [About](Pages\About.md)
 
-## [Contact](Contact.md)
+## [Contact](Pages\Contact.md)
  
-## [Projects](Work_Projects.md)
+## [Projects](Pages\Work_Projects.md)
