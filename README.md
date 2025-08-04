@@ -1,7 +1,5 @@
-# Welcome to the Turing LLC Portfolio Page
+# An Improper Visualization of Data
 
-## [About](Pages/About.md)
+## This is a silly demonstration of how not to visualize data. In code below, the entire text of the ERV Bible is displayed as one bitmap image. The text is converted to hexidecimal six byte chunks and saved as an image. Each pixel represents three consequetive characters from the text represented in corresponding brightness of the values of Red, Green, and Blue.
 
-## [Contact](Pages/Contact.md)
- 
-## [Projects](Pages/Work_Projects.md)
+## The moral of the story: Data visualization is more than just "making a picture." Consider your audience and aggregate your data appropriately for useful consumption.
