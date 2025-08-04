@@ -15,3 +15,5 @@
 ## [Case Study of Retailer Expanding Business in US](https://github.com/turingllcconsulting/turingllcconsulting.github.io/tree/Retail_Expansion)
 
 ## [Feature Selection, Time Series, and Correlation Analysis in Poultry Rendering Systems](https://github.com/turingllcconsulting/turingllcconsulting.github.io/tree/Time_Series_Poultry_Rendering)
+
+## [An Improper Visualization of Data](https://github.com/turingllcconsulting/turingllcconsulting.github.io/tree/Text_to_Image)
