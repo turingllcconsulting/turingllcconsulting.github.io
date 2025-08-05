@@ -17,3 +17,5 @@
 ## [Feature Selection, Time Series, and Correlation Analysis in Poultry Rendering Systems](https://github.com/turingllcconsulting/turingllcconsulting.github.io/tree/Time_Series_Poultry_Rendering)
 
 ## [An Improper Visualization of Data](https://github.com/turingllcconsulting/turingllcconsulting.github.io/tree/Text_to_Image)
+
+## [Poultry Rendering Stats Dashboard](https://github.com/turingllcconsulting/turingllcconsulting.github.io/tree/Rendering_Stats_Dashboard)
